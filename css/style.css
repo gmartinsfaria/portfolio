@@ -76,3 +76,14 @@ svg {
 .download-button:hover{
     background-color: #7C2624;
 }
+
+
+.footer-link {
+    color: black;
+}
+
+
+.footer-link:hover,
+.nav-link:hover {
+    color: #4692B2;
+}
